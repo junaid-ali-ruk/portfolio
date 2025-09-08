@@ -64,7 +64,7 @@ export default function PortfolioHero() {
 
             <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }} className="w-full sm:w-auto">
               <Link
-                href="/lets-connect"
+                href="#contact"
                 prefetch={false}
                 className="inline-flex w-full sm:w-auto items-center justify-center space-x-2 rounded-full bg-gradient-to-r from-rose-500 to-rose-700 px-6 sm:px-8 py-3 sm:py-2.5 font-medium text-white transition-all duration-200 hover:shadow-lg min-h-[48px] text-sm sm:text-base"
               >
