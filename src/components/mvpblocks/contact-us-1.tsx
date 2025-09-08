@@ -186,7 +186,7 @@ const handleSubmit = async (e: React.FormEvent) => {
             >
               <div className="flex flex-col items-center justify-center overflow-hidden">
                 <article className="relative mx-auto h-[400px] max-w-[450px] overflow-hidden rounded-3xl border border-white/10 bg-gradient-to-b from-[#e60a64] to-[#e60a64]/5 p-8 text-3xl lg:text-4xl tracking-tight text-white leading-tight">
-                  <span className="relative z-20">Presenting you with the best UI possible.</span>
+                  <span className="relative z-20">Have a question? We’re just a message away</span>
                   <div className="absolute -right-20 -bottom-20 z-10 mx-auto flex h-full w-full max-w-[400px] items-center justify-center transition-all duration-700 hover:scale-105">
                     <Earth
                       scale={0.9}
